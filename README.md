@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @T4IR0N
-- 👀 I’m interested in Spacheships
+- 👀 I’m interested in SpaceShips
 - 🌱 I’m currently learning BananaCode
 
 
